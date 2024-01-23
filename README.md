@@ -9,7 +9,7 @@ http://192.168.1.150:5000/predictdata
 
 3. Now to push the data in github, we will follow the following steps
 
-# Deploy this on github
+Deploy this on github
 
 git init
 
